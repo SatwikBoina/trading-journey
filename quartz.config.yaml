@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: tradingjourney.github.io/quartz
+  baseUrl: satwikboina.github.io/trading-journey
   ignorePatterns:
     - private
     - templates
